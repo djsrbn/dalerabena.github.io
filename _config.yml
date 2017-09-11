@@ -1,5 +1,9 @@
-title: Cayman theme
-description: Cayman is a clean, responsive theme for GitHub Pages.
-show_downloads: true
-google_analytics:
+title: Dale Rabena
+description: Computer Programmer @ Mariano Marcos State University
+show_downloads: false
+google_analytics: UA-105746837-1
 theme: jekyll-theme-cayman
+
+facebook_url: http://www.facebook.com/dale.rabena
+github_url: http://github.com/dalejustiine
+linkedin_url: http://www.linkedin.com/in/dalerabena
