@@ -1,4 +1,7 @@
-source 'https://rubygems.org'
-gem "jekyll", "~> 3.9.0"
+# frozen_string_literal: true
 
-gemspec
+source "https://rubygems.org"
+
+git_source(:github) {|repo_name| "https://github.com/#{repo_name}" }
+
+# gem "rails"
