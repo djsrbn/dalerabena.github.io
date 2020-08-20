@@ -66,6 +66,7 @@ PLATFORMS
   x64-mingw32
 
 DEPENDENCIES
+  jekyll (~> 3.9.0)
   jekyll-theme-cayman!
 
 BUNDLED WITH
