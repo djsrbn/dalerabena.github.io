@@ -18,7 +18,6 @@ const about = {
     ],
     activities: [
         'programming',
-        'dota 2',
         'movies',
         'music'
     ]
